@@ -137,7 +137,7 @@ App.listen(Port,()=>{
 })
 
 
-let  dburl = "mongodb+srv://1234:1234@cluster0.lokswzh.mongodb.net/sociakediaBase?retryWrites=true&w=majority"
+let  dburl = 'mongodb+srv://Soomro:soomro123@cluster0.ljqpk9g.mongodb.net/socialMediabase?retryWrites=true&w=majority'
 mongoose.connect(dburl)
 //connection 
 
